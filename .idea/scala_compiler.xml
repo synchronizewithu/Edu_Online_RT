@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="onlineeducation-realtime">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\1.IntelliJ_IDEA\WorkSpace2018_hadoop\onlineeducation-realtime\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="F:\develope_tools\1.IntelliJ_IDEA\WorkSpace2018_hadoop\onlineeducation-realtime\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="F:\develope_tools\1.IntelliJ_IDEA\WorkSpace2018_hadoop\onlineeducation-realtime" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
